@@ -28,3 +28,16 @@
     }
   }
 }
+
+@media only screen and (max-width: 400px) {
+  .nav {
+    &__list {
+      &--item {
+        font-size: 1.6rem;
+      }
+    }
+  }
+  .logo {
+    width: 5rem;
+  }
+}

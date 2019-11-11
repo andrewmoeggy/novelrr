@@ -1,5 +1,9 @@
 import React, { Component } from 'react';
 import Hero from '../components/Hero/Hero';
+import Banner from '../components/Banner/Banner';
+import Services from '../components/Services/Services';
+import { Link } from 'react-router-dom';
+
 
 class Home extends Component {
   constructor(props) {
@@ -9,7 +13,12 @@ class Home extends Component {
   render() {
     return (
       <div>
-        <Hero></Hero>
+        <Hero title="Welcome to Novelrr" hero='hero'>
+          <Banner title='Welcome to Novelrr' blurb='Browse our new and exciting novels!'>
+            <Link to='/books' className='btn-primary'>Browse Books</Link>
+          </Banner>
+        </Hero>
+        <Services />
       </div>
     );
   }

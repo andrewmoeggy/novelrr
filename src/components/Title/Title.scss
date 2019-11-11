@@ -1,0 +1,22 @@
+.title {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  background: var(--secondary-light-2);
+  text-align: center;
+  padding: 3rem;
+
+  &__heading {
+    font-size: 3.3rem;
+    color: var(--secondary-dark-2);
+    padding: 3rem;
+    font-weight: 100;
+  }
+
+  &__underline {
+    width: 8rem;
+    height: 3px;
+    background: var(--secondary-dark-2);
+    margin: 0 auto;
+  }
+}
