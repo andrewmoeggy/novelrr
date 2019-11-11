@@ -1,0 +1,30 @@
+.header {
+  display: flex;
+  width: 100%;
+  justify-content: space-around;
+  background-color: beige;
+  padding: 1.5rem;
+}
+
+.nav {
+
+  &__list {
+    display: flex;
+    &--item {
+      font-size: 1.9rem;
+      list-style: none;
+      padding: .5rem;
+      a {
+        text-decoration: none;
+        color: var(--secondary-dark-2)
+      }
+    }
+  }
+
+  
+}
+
+h1 {
+  font-size: 32px;
+  color: var(--secondary-dark-1)
+}
