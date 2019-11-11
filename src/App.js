@@ -21,7 +21,6 @@ function App() {
           <Route path="/books" component={Books} />
           <Route path="/about" component={About} />
           <Route path="/" component={Home} />
-          {/* home must be last */}
         </Switch>
       </div>
     </Router>

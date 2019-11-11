@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import Hero from '../components/Hero/Hero';
-import SearchBar from '../components/SearchBar/SearchBar';
 
 class Home extends Component {
   constructor(props) {
@@ -11,7 +10,6 @@ class Home extends Component {
     return (
       <div>
         <Hero></Hero>
-        <SearchBar />
       </div>
     );
   }
