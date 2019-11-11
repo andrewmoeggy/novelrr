@@ -16,16 +16,12 @@ function App() {
     <Router>
       <div className="App">
         <Header />
+        {/* // switch matches first url then stops // */}
         <Switch>
-          <Route path="/about">
-            <About />
-          </Route>
-          <Route path="/books">
-            <Books />
-          </Route>
-          <Route path="/">
-            <Home />
-          </Route>
+          <Route path="/books" component={Books} />
+          <Route path="/about" component={About} />
+          <Route path="/" component={Home} />
+          {/* home must be last */}
         </Switch>
       </div>
     </Router>
