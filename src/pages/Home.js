@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import Hero from '../components/Hero/Hero';
 import Banner from '../components/Banner/Banner';
 import Services from '../components/Services/Services';
+import FeaturedBooks from '../components/FeaturedBooks/FeaturedBooks';
 import { Link } from 'react-router-dom';
 
 
@@ -19,6 +20,7 @@ class Home extends Component {
           </Banner>
         </Hero>
         <Services />
+        <FeaturedBooks />
       </div>
     );
   }

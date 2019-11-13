@@ -1,0 +1,29 @@
+.featured .title{
+  background-color: cornsilk;
+}
+
+.featured-container {
+  padding: 5rem;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(25.5rem, 1fr));
+}
+
+
+.featured__item {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 1.5rem;
+  &-title {
+    font-size: 1.8rem;
+  }
+
+  &-description {
+    padding: .2rem;
+  }
+
+  &-image {
+    height: 25rem;
+  }
+}
