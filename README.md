@@ -1,3 +1,17 @@
+# Novelrr
+Novelrr is a demonstration React App designed to simulate a simple ecommerce store which sells books.
+
+# Dependencies
+"react": "^16.11.0",
+"react-dom": "^16.11.0",
+"react-router-dom": "^5.1.2",
+"react-scripts": "3.2.0"
+# DevDependencies
+"node-sass": "^4.13.0"
+
+# Design
+This app is split into a number of reusable UI modules which render data stored in a seperate data.js file. 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
