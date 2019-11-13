@@ -18,12 +18,12 @@
         width: 100%;
         text-decoration: none;
         color: var(--secondary-dark-2);
-        border-bottom: 0px solid transparent;
+        border-bottom: 0px  transparent;
         transition: border-bottom .4s;
       }
       a:hover {
         cursor: pointer;
-        border-bottom: 3px solid var(--primary-color);
+        border-bottom: 2px solid var(--primary-color);
       }
     }
   }

@@ -1,8 +1,23 @@
 const services = [
-  'New Releases',
-  'Great Deals',
-  'Award Winning Authors',
-  'Signed Editions'
+  {
+    description: 'New Releases',
+    iconCSSClass: 'fas fa-book'
+  },
+  {
+    description: 'Great Deals',
+    iconCSSClass: 'fas fa-book-reader'
+  },
+  {
+    description: 'Award Winning Authors',
+    iconCSSClass: 'fas fa-glasses'
+  },
+  {
+    description: 'Signed Editions',
+    iconCSSClass: 'fas fa-apple-alt'
+  },
+
+
+
 ];
 
 const bookData = [
