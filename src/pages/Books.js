@@ -1,4 +1,6 @@
 import React, { Component } from 'react';
+import Title from '../components/Title/Title';
+import BookContainer from '../components/BookContainer/BookContainer';
 
 class Books extends Component {
   constructor(props) {
@@ -7,7 +9,10 @@ class Books extends Component {
   }
   render() {
     return (
-      <h1>This is the books page</h1>
+      <Title title="Books">
+        <h1>Books Page</h1>
+        <BookContainer />
+      </Title>
     );
   }
 }

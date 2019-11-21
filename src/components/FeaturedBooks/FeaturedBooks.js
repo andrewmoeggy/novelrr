@@ -1,19 +1,17 @@
 import React, { Component } from 'react';
 import './FeaturedBooks.scss';
-import featured from '../../fauxData/data.json';
+import { BookContext } from '../../context';
 import Title from '../Title/Title';
 
 class FeaturedBooks extends Component {
-  constructor(props) {
-    super(props);
-    this.state = {
-      featured: featured
-    }
-  }
+  state = {}
+  static contextType = BookContext;
+
   render() {
-    const bookList = this.state.featured.map((book, i) => {
+    let { featuredBooks: books } = this.context;
+    let bookList = books.map((book, i) => {
       return (
-        <div className="featured__item">
+        <div className="featured__item" key={`${book} ${i}`}>
           <h1 className='featured__item-title'>{book.title}</h1>
           <p className='featured__item-description'>{book.author}</p>
           <p className='featured__item-description'>{book.published}</p>

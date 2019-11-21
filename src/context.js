@@ -5,19 +5,23 @@ const BookContext = React.createContext();
 
 class BookProvider extends Component {
   state = {
-
+    featuredBooks: []
   }
+
 
   componentDidMount() {
     let books = items;
-    let featuredBooks = books.filter(book => book.featured === true);
+    let featuredBooks = books.filter(book => book.featured === 'true');
+    this.setState({
+      featuredBooks: featuredBooks
+    })
   }
 
   render() {
     return (
-      <BookContext value={this.state}>
+      <BookContext.Provider value={{ ...this.state }}>
         {this.props.children}
-      </BookContext>
+      </BookContext.Provider>
     )
   }
 }
@@ -29,6 +33,7 @@ export function withBookConsumer(Component) {
     return (
       <BookConsumer>
         {(value) => <Component {...props} context={value} />}
+
       </BookConsumer>
     )
   }
