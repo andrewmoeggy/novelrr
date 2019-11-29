@@ -8,7 +8,7 @@ import {
 const Header = () => {
   return (
     <header className='header'>
-      <Link to='/'><img src={logo} alt='Novelrr Logo' /></Link>
+      <Link to='/'><img src={logo} alt='Novelrr Logo' className="logo" /></Link>
       <nav className='nav'>
         <ul className='nav__list'>
           <li className='nav__list--item'><Link to='/'>Home</Link></li>

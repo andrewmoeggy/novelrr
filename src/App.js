@@ -7,6 +7,7 @@ import {
 } from "react-router-dom";
 
 import Header from './components/Header/Header';
+import Footer from './components/Footer/Footer';
 import Home from './pages/Home';
 import About from './pages/About';
 import Books from './pages/Books';
@@ -22,6 +23,7 @@ function App() {
           <Route path="/about" component={About} />
           <Route path="/" component={Home} />
         </Switch>
+        <Footer />
       </div>
     </Router>
   );

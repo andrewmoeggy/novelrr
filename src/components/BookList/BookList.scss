@@ -1,5 +1,5 @@
 .bookList {
-  margin-top: 4rem;
+  margin-top: 6rem;
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(25rem, 1fr));
   grid-template-rows: 1fr 1fr;
@@ -28,6 +28,11 @@
     width: 20rem;
     height: 75%;
   }
-
- 
 }
+
+@media only screen and (max-width: 400px) {
+  .bookList {
+    margin-top: 4rem;
+  }
+}
+

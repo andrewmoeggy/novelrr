@@ -1,0 +1,42 @@
+.footer {
+  background-color: var(--secondary-dark-2);
+  height: 10vh;
+  display: flex;
+    justify-content: center;
+    align-items: center;
+  padding: 1rem;
+  &__blurb {
+    color: #fff;
+    font-size: 1.8rem;
+    margin-right: 4rem;
+  }
+  &__list, &__list a{
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+  
+    &-item {
+      list-style: none;
+      color: #fff;
+      font-size: 1.8rem;
+      padding-top: .2rem;
+      padding-bottom: .2rem;
+      padding-left: 1rem;
+    }
+  }
+}
+
+@media only screen and (max-width: 50em) {
+  .footer {
+    
+    &__blurb {
+      font-size: 1.7rem;
+      margin-right: 2rem;
+    }
+    &__list {
+      &-item {
+        font-size: 1.8rem;
+      }
+    }
+  }
+}
