@@ -1,13 +1,18 @@
 import React from 'react';
 import { withBookConsumer } from '../../context';
 import Loading from './../Loading/Loading';
+import BookList from './../BookList/BookList';
 
 const BookContainer = ({ context }) => {
-
-  if (true) {
+  const { books } = context;
+  if (false) {
     return (<Loading />)
   } else {
-    return (<h1>Hey</h1>)
+    return (
+      <>
+        <BookList books={books} />
+      </>
+    )
   }
 
 }

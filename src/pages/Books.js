@@ -10,7 +10,6 @@ class Books extends Component {
   render() {
     return (
       <Title title="Books">
-        <h1>Books Page</h1>
         <BookContainer />
       </Title>
     );

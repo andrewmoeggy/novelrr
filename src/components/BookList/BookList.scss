@@ -1,0 +1,30 @@
+.bookList {
+  margin-top: 2rem;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(25rem, 1fr));
+  grid-template-rows: 1fr 1fr;
+  grid-gap: 1rem;
+
+  &__item {
+    border-right: .5px solid rgba(0, 0, 0, 0.50);
+    border-bottom: .5px solid rgba(0, 0, 0, 0.50);
+    padding: 3rem;
+    padding-top: 0;
+  }
+  &__title {
+    text-align: justify;
+    padding-bottom: .5rem;
+    
+  }
+
+  &__paragraph {
+    text-align: justify;
+  }
+
+  &__image  {
+    width: 20rem;
+    height: 75%;
+  }
+
+ 
+}

@@ -5,14 +5,20 @@ const BookContext = React.createContext();
 
 class BookProvider extends Component {
   state = {
+    books: [],
     featuredBooks: []
   }
 
-
+  // getBooks(slug) {
+  //   let tempBooks = [...this.state.books];
+  //   const book = tempBooks((book) => book.slug === slug)
+  // }
   componentDidMount() {
+    //retrive faux data from file and set state.
     let books = items;
     let featuredBooks = books.filter(book => book.featured === 'true');
     this.setState({
+      books,
       featuredBooks: featuredBooks
     })
   }

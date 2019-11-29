@@ -1,6 +1,7 @@
 [
   {
     "title": "The Lord of the Rings",
+    "slug": "The Lord of the Rings",
     "author": "J.R.R. Tolkien",
     "published": "July 29 1954",
     "publisher": "Allen & Unwin",
@@ -11,6 +12,7 @@
   },
   {
     "title": "To Kill a Mockingbird",
+    "slug": "To Kill a Mockingbird",
     "author": "Harper Lee",
     "published": "July 11, 1960",
     "publisher": "J. B. Lippincott & Co.",
@@ -21,6 +23,7 @@
   },
   {
     "title": "Moby-Dick; or, The Whale",
+    "slug": "Moby-Dick; or, The Whale",
     "author": "Herman Melville",
     "published": "November 14, 1851",
     "publisher": "Harper & Brothers",
@@ -31,6 +34,7 @@
   },
   {
     "title": "Brave New World",
+    "slug": "Brave New World",
     "author": "Aldous Huxley",
     "published": "1932",
     "publisher": "Harper & Brothers",
@@ -41,6 +45,7 @@
   },
   {
     "title": "Adventures of Huckleberry Finn",
+    "slug": "Adventures of Huckleberry Finn",
     "author": "Mark Twain",
     "published": "December 10, 1884",
     "publisher": "Chatto & Windus",
@@ -51,6 +56,7 @@
   },
   {
     "title": "Frankenstein",
+    "slug": "Frankenstein",
     "author": "Mary Shelley",
     "published": "January 1 1818",
     "publisher": "Lackington, Hughes, Harding, Mavor & Jones",
@@ -58,5 +64,71 @@
     "language": "English",
     "imgURL": "https://i.ebayimg.com/images/g/qTMAAOSwux5YLc4o/s-l640.jpg",
     "featured": "true"
+  },
+  {
+    "title": "The Great Gatsby",
+    "slug": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "published": "April 10, 1925",
+    "publisher": "Charles Scribner's Sons",
+    "genre": "Novel, Fiction, Tragedy",
+    "language": "English",
+    "imgURL": "https://images-na.ssl-images-amazon.com/images/I/81af%2BMCATTL.jpg",
+    "featured": "false"
+  },
+  {
+    "title": "1984",
+    "slug": "1984",
+    "author": "George Orwell",
+    "published": "June 8, 1949",
+    "publisher": "Secker & Warburg",
+    "genre": "Science Fiction, Dystopian Fiction",
+    "language": "English",
+    "imgURL": "https://images-na.ssl-images-amazon.com/images/I/31nH8aeADgL.jpg",
+    "featured": "false"
+  },
+  {
+    "title": "Wuthering Heights",
+    "slug": "Wuthering Heights",
+    "author": "Emily Brontë",
+    "published": "December 1847",
+    "publisher": "Thomas Cautley Newby",
+    "genre": "Novel, Gothic fiction, Romance novel",
+    "language": "English",
+    "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Houghton_Lowell_1238.5_%28A%29_-_Wuthering_Heights%2C_1847.jpg/200px-Houghton_Lowell_1238.5_%28A%29_-_Wuthering_Heights%2C_1847.jpg",
+    "featured": "false"
+  },
+  {
+    "title": "Heart of Darkness",
+    "slug": "Heart of Darkness",
+    "author": "Joseph Conrad",
+    "published": "1902",
+    "publisher": "Blackwood's Magazine",
+    "genre": "Novella, Fiction, Roman à clef",
+    "language": "English",
+    "imgURL": "https://kbimages1-a.akamaihd.net/e278c62e-943a-473e-846a-3e19bce5b5d8/353/569/90/False/heart-of-darkness-12.jpg",
+    "featured": "false"
+  },
+  {
+    "title": "Dracula",
+    "slug": "Dracula",
+    "author": "Bram Stoker",
+    "published": "26 May 1897",
+    "publisher": "Archibald Constable and Company",
+    "genre": "Horror, Gothic",
+    "language": "English",
+    "imgURL": "https://www.nosweatshakespeare.com/wp-content/uploads/2018/02/dracula.jpg",
+    "featured": "false"
+  },
+  {
+    "title": "Great Expectations",
+    "slug": "Great Expectations",
+    "author": "Charles Dickens",
+    "published": "1861",
+    "publisher": "Chapman & Hall",
+    "genre": "Novel",
+    "language": "English",
+    "imgURL": "https://images-na.ssl-images-amazon.com/images/I/51pqUWvj6NL.jpg",
+    "featured": "false"
   }
 ]
