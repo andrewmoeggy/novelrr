@@ -29,6 +29,15 @@
   }
 }
 
+@media only screen and (max-width: 600px) {
+  .nav {
+    &__list {
+      &--item {
+        padding: .6rem;
+      }
+    }
+  }
+}
 @media only screen and (max-width: 400px) {
   .nav {
     &__list {

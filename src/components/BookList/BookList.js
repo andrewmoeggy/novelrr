@@ -7,10 +7,12 @@ import './BookList.scss';
 const BookList = ({ books }) => {
   const context = useContext(BookContext);
   const bookList = context.books.map((book, i) => {
-    const { title, author, publiser, published, genre, imgURL, language } = book;
+    const { title, author, publiser, published, genre, imgURL, language, amzURL } = book;
     return (
       <div key={`${book} ${i}`} className="bookList__item">
-        <h1 className="bookList__title">{title}</h1>
+        <a href={amzURL} className="bookList__link" target="_blank" rel="noopener noreferrer">
+          <h1 className="bookList__title">{title}</h1>
+        </a>
         <p className="bookList__paragraph">{author}</p>
         <p className="bookList__paragraph">{published}</p>
         <p className="bookList__paragraph">{publiser}</p>

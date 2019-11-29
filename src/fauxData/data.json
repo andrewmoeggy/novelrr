@@ -8,7 +8,8 @@
     "genre": "Fantasy Adventure",
     "language": "English",
     "imgURL": "https://timeentertainment.files.wordpress.com/2011/07/t100_novels_lordoftherings.jpg?w=260",
-    "featured": "true"
+    "featured": "true",
+    "amzURL": "https://www.amazon.com/Hobbit-Lord-Rings-Fellowship-Towers/dp/0345538374/ref=sr_1_1?keywords=the+lord+of+the+rings+novel&qid=1575045502&sr=8-1"
   },
   {
     "title": "To Kill a Mockingbird",
@@ -19,7 +20,8 @@
     "genre": "Southern Gothic",
     "language": "English",
     "imgURL": "https://upload.wikimedia.org/wikipedia/commons/4/4f/To_Kill_a_Mockingbird_%28first_edition_cover%29.jpg",
-    "featured": "true"
+    "featured": "true",
+    "amzURL": "https://www.amazon.com/Kill-Mockingbird-Harper-Lee/dp/0060935464/ref=sr_1_1_sspa?crid=39U70UWRTNXZE&keywords=to+kill+a+mockingbird&qid=1575045878&sprefix=to+kil%2Caps%2C490&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyVENXQ0E5VEVNN1dHJmVuY3J5cHRlZElkPUEwNzUzMTI2M1FMMllZUjhOSDNLRSZlbmNyeXB0ZWRBZElkPUEwNjAwNTYxMUdTNjZZVFJUNlg3NCZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU="
   },
   {
     "title": "Moby-Dick; or, The Whale",
@@ -30,7 +32,8 @@
     "genre": "Adventure fiction, Epic",
     "language": "English",
     "imgURL": "https://images-na.ssl-images-amazon.com/images/I/41VnFKC9srL._SX346_BO1,204,203,200_.jpg",
-    "featured": "true"
+    "featured": "true",
+    "amzURL": "https://www.amazon.com/Moby-Dick-Herman-Melville/dp/1503280780/ref=sr_1_1_sspa?crid=YYUX0QYFKKYY&keywords=moby+dick&qid=1575045811&sprefix=moby+%2Caps%2C203&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzQ0I1OVNHSlBJSDYmZW5jcnlwdGVkSWQ9QTAxOTU3NTUzUE82TDVTQ1NPT1EyJmVuY3J5cHRlZEFkSWQ9QTAzMzQxMzBWSlNJWEw1VFdUSjkmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl"
   },
   {
     "title": "Brave New World",
@@ -41,7 +44,8 @@
     "genre": "Dystopian fiction",
     "language": "English",
     "imgURL": "https://upload.wikimedia.org/wikipedia/en/thumb/6/62/BraveNewWorld_FirstEdition.jpg/220px-BraveNewWorld_FirstEdition.jpg",
-    "featured": "true"
+    "featured": "true",
+    "amzURL": "https://www.amazon.com/Brave-New-World-Aldous-Huxley/dp/0375712364/ref=sr_1_1_sspa?keywords=Brave+New+World&qid=1575045903&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzMlJNTUtNS1RRVVVDJmVuY3J5cHRlZElkPUEwNTg3NjQ3MVNIVFg1TUwxNEZIMSZlbmNyeXB0ZWRBZElkPUEwMjk4MjAzMk5RQkNHUDFHVDc0TCZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU="
   },
   {
     "title": "Adventures of Huckleberry Finn",
@@ -52,7 +56,8 @@
     "genre": "Picaresque novel",
     "language": "English",
     "imgURL": "https://i.etsystatic.com/18082131/r/il/081331/1595622124/il_570xN.1595622124_sn4m.jpg",
-    "featured": "true"
+    "featured": "true",
+    "amzURL": "https://www.amazon.com/Adventures-Huckleberry-Finn-Mark-Twain/dp/0486280616/ref=sr_1_1_sspa?keywords=Adventures+of+Huckleberry+Finn&qid=1575045920&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExMlBJUVhXSVpFN0FUJmVuY3J5cHRlZElkPUEwMzY2OTI0MTQ1OUNOTUs1MjExRSZlbmNyeXB0ZWRBZElkPUEwMjUxNDM2NTQ5UDFRSjAxRjJaJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ=="
   },
   {
     "title": "Frankenstein",
@@ -63,7 +68,8 @@
     "genre": "Gothic novel, horror fiction",
     "language": "English",
     "imgURL": "https://i.ebayimg.com/images/g/qTMAAOSwux5YLc4o/s-l640.jpg",
-    "featured": "true"
+    "featured": "true",
+    "amzURL": "https://www.amazon.com/Frankenstein-Mary-Wollstonecraft-Shelley/dp/1503262421/ref=sr_1_2_sspa?keywords=Frankenstein&qid=1575045934&sr=8-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExQlFDRlpYTTE4Skg1JmVuY3J5cHRlZElkPUEwMDI1MzAyMjNNSTIxQUk2VUpDTyZlbmNyeXB0ZWRBZElkPUEwNDM1MDYxSFU3QVVZRERKTjk4JndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ=="
   },
   {
     "title": "The Great Gatsby",
@@ -74,7 +80,8 @@
     "genre": "Novel, Fiction, Tragedy",
     "language": "English",
     "imgURL": "https://images-na.ssl-images-amazon.com/images/I/81af%2BMCATTL.jpg",
-    "featured": "false"
+    "featured": "false",
+    "amzURL": "https://www.amazon.com/Great-Gatsby-F-Scott-Fitzgerald/dp/0743273567/ref=sr_1_3?keywords=The+Great+Gatsby&qid=1575045948&sr=8-3"
   },
   {
     "title": "1984",
@@ -85,7 +92,8 @@
     "genre": "Science Fiction, Dystopian Fiction",
     "language": "English",
     "imgURL": "https://images-na.ssl-images-amazon.com/images/I/31nH8aeADgL.jpg",
-    "featured": "false"
+    "featured": "false",
+    "amzURL": "https://www.amazon.com/Nineteen-Eighty-Four-Oberon-Modern-Plays/dp/1783190612/ref=sr_1_5?keywords=1984&qid=1575045985&rnid=2941120011&s=books&sr=1-5"
   },
   {
     "title": "Wuthering Heights",
@@ -96,7 +104,8 @@
     "genre": "Novel, Gothic fiction, Romance novel",
     "language": "English",
     "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Houghton_Lowell_1238.5_%28A%29_-_Wuthering_Heights%2C_1847.jpg/200px-Houghton_Lowell_1238.5_%28A%29_-_Wuthering_Heights%2C_1847.jpg",
-    "featured": "false"
+    "featured": "false",
+    "amzURL": "https://www.amazon.com/Wuthering-Heights-Emily-Bronte/dp/150531349X/ref=sr_1_1_sspa?keywords=Wuthering+Heights&qid=1575046010&s=books&sr=1-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFESlVHSkMyQTlFSUwmZW5jcnlwdGVkSWQ9QTA3NzM0NDExMlhMMjk2UUVMU09VJmVuY3J5cHRlZEFkSWQ9QTAwMzUwNzUyUU9NWjBCR0o1MzcwJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ=="
   },
   {
     "title": "Heart of Darkness",
@@ -107,7 +116,8 @@
     "genre": "Novella, Fiction, Roman à clef",
     "language": "English",
     "imgURL": "https://kbimages1-a.akamaihd.net/e278c62e-943a-473e-846a-3e19bce5b5d8/353/569/90/False/heart-of-darkness-12.jpg",
-    "featured": "false"
+    "featured": "false",
+    "amzURL": "https://www.amazon.com/Heart-Darkness-Joseph-Conrad/dp/1503275922/ref=sr_1_1_sspa?keywords=Heart+of+Darkness&qid=1575046027&s=books&sr=1-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExWEE4WjFDVVQxSFE1JmVuY3J5cHRlZElkPUEwOTE5MDk4M0hMV0JFMTc5R1I1NSZlbmNyeXB0ZWRBZElkPUEwMDczMDAyMVRITjdJQTU3U0dFSSZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU="
   },
   {
     "title": "Dracula",
@@ -118,7 +128,8 @@
     "genre": "Horror, Gothic",
     "language": "English",
     "imgURL": "https://www.nosweatshakespeare.com/wp-content/uploads/2018/02/dracula.jpg",
-    "featured": "false"
+    "featured": "false",
+    "amzURL": "https://www.amazon.com/Dracula-Bram-Stoker/dp/1503261387/ref=sr_1_2_sspa?keywords=Dracula&qid=1575046040&s=books&sr=1-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzMjhXQUpKNzlFWVI5JmVuY3J5cHRlZElkPUEwMTA3MDY1R1YxUlM1Tlo5QzlOJmVuY3J5cHRlZEFkSWQ9QTAyNjAzNTYxVjhHSk1FOTUwVktMJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ=="
   },
   {
     "title": "Great Expectations",
@@ -129,6 +140,7 @@
     "genre": "Novel",
     "language": "English",
     "imgURL": "https://images-na.ssl-images-amazon.com/images/I/51pqUWvj6NL.jpg",
-    "featured": "false"
+    "featured": "false",
+    "amzURL": "https://www.amazon.com/Great-Expectations-Charles-Dickens/dp/1512308846/ref=sr_1_1_sspa?keywords=Great+Expectations&qid=1575046061&s=books&sr=1-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyMFBDWFFRVkxZMk9ZJmVuY3J5cHRlZElkPUEwNjk2MjkxMjVVWVZGMU9NVU40TyZlbmNyeXB0ZWRBZElkPUEwODkxODU4MUlFNFhZSjhRV0owQSZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU="
   }
 ]

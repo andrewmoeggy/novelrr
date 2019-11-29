@@ -12,7 +12,9 @@ class FeaturedBooks extends Component {
     let bookList = books.map((book, i) => {
       return (
         <div className="featured__item" key={`${book} ${i}`}>
-          <h1 className='featured__item-title'>{book.title}</h1>
+          <a href={book.amzURL} className='featured__item-link' target="_blank" rel="noopener noreferrer">
+            <h1 className='featured__item-title'>{book.title}</h1>
+          </a>
           <p className='featured__item-description'>{book.author}</p>
           <p className='featured__item-description'>{book.published}</p>
           <p className='featured__item-description'>{book.publisher}</p>

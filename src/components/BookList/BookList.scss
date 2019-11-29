@@ -1,10 +1,12 @@
 .bookList {
-  margin-top: 2rem;
+  margin-top: 4rem;
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(25rem, 1fr));
   grid-template-rows: 1fr 1fr;
   grid-gap: 1rem;
-
+  &__link {
+    color: #000;
+  }
   &__item {
     border-right: .5px solid rgba(0, 0, 0, 0.50);
     border-bottom: .5px solid rgba(0, 0, 0, 0.50);
@@ -12,13 +14,14 @@
     padding-top: 0;
   }
   &__title {
-    text-align: justify;
+    // text-align: justify;
     padding-bottom: .5rem;
     
   }
 
   &__paragraph {
-    text-align: justify;
+    // text-align: justify;
+    padding-bottom: .2rem;
   }
 
   &__image  {
