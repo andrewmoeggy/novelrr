@@ -15,6 +15,8 @@
   justify-content: center;
   align-items: center;
   margin-bottom: 1.5rem;
+
+  
   &-link {
     text-decoration: underline;
     color: #000;
@@ -25,9 +27,20 @@
 
   &-description {
     padding: .2rem;
+    margin-bottom: .3rem;
+    text-align: justify;
+  }
+  &-description:nth-child(5) {
+    margin-bottom: 1rem;
   }
 
   &-image {
     height: 25rem;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .featured-container {
+    padding: 0;
   }
 }

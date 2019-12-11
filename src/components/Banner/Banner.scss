@@ -45,3 +45,9 @@
     }
   }
 }
+
+@media only screen and (max-width: 400px) {
+  .banner__container {
+    height: 60vh;
+  }
+}
