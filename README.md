@@ -1,5 +1,5 @@
 # Novelrr
-Novelrr is a demonstration React App designed to simulate a simple ecommerce store which sells books.
+Novelrr is a demonstration React App designed to simulate a simple ecommerce store.  Takes advantage of the context API and react-router.  
 
 # Dependencies
 "react": "^16.11.0",
